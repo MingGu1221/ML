@@ -2,7 +2,7 @@ clc;
 clear all;
 
 
-whole_data = readmatrix('C:\Users\Ming\Dropbox\ML AI DeepL Reinforcement\SPY_20_years_data.csv');
+whole_data = readmatrix('C:\xxxxxxxxxxxxxxxxxxx\SPY_20_years_data.csv');
 %%%%%数据特点： 1 Date	2 Open	3 High	4 Low	5 Close	  6 Adj Close	7 Volume
 raw_data = whole_data(:, [2, 3, 4, 5]);
 %%%%%数据特点： 1 Open	2 High	3 Low	4 Close	
