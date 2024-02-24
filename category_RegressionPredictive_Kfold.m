@@ -4,7 +4,7 @@
 clc;
 clear all;
 
-whole_data = readtable('C:\Users\Ming\Dropbox\ML AI DeepL Reinforcement\tableConvert.com_n0fwak.csv');
+whole_data = readtable('C:\Users\xxx\tableConvert.com_n0fwak.csv');
 % 显示前几行数据以检查
 % head(dataTable)
 % 每列代表着 sepal_length	sepal_width	  petal_length	  petal_width	species
